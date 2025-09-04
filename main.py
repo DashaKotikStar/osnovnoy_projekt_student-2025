@@ -1,4 +1,4 @@
-'''print('Hello, World!')
+print('Hello, World!')
 name = input("Скажи своё имя: ")
 print(name)
 
@@ -29,7 +29,7 @@ if q == s:
 else:
     print("Вашь ответ не верный. Верный ответ: ", q)
 
-'''
+
 # x^2+3x+6=0 D
 import math
 
